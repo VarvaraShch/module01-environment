@@ -16,7 +16,7 @@
 ## Как открыть
 1. Открыть Colab/Jupyter.
 2. Загрузить папку `module01_environment` или ZIP.
-3. Открыть `notebooks/lr01_runtime_order_surname.ipynb`.
+3. Открыть `notebooks/lr01_runtime_order_shchegoleva.ipynb`.
 4. Выполнить `Restart runtime → Run all`.
 5. Проверить, что нет `NameError` и данные читаются по относительному пути `../data/sample_text.txt`.
 
